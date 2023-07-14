@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chaimae Rouita</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **C++, JS, C#, react, HTML**
+- 🌱 I’m currently learning **Laravel, JS, C#, react, HTML**
 
 - 📫 How to reach me **chaimaerouita@gmail.com**
 
