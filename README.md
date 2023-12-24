@@ -1,7 +1,5 @@
 
-<h1 align="left">Hi, I'm Chaimae Rouita</h1>
-
-- 🌱 I’m currently learning **Laravel, JS, C#, react, Java**
+- 🌱 I’m currently learning **Python, JS, C#, react, databases**
 
 - 📫 How to reach me **chaimaerouita@gmail.com**
 
