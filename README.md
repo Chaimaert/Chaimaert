@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning **Python, JS, ML, react, databases**
+- 🌱 I’m currently learning **Python, Docker, Jenkins, ML, react, databases**
 
 - 📫 How to reach me **chaimaerouita@gmail.com**
 
